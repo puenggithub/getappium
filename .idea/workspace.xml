@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc4ffe0f-ad2d-467e-aab0-e89bad0756e7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="85" column="21" selection-start-line="78" selection-start-column="12" selection-end-line="85" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/get/appiumtest/android/kycTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/get/appiumtest/android/util/AndroidAppium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6175">
+              <caret line="25" column="79" lean-forward="true" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>, AndroidDriver&lt;MobileElement&gt; driver</find>
+      <find>indElementById(element)</find>
+      <find>, driver</find>
+      <find>takeSelfiePhoto(driver);</find>
+      <find>, wait)</find>
+      <find>waitAndClickById(&quot;com.get.consumer.app.staging:id/</find>
+      <find>waitAndClickById(&quot;com.android.packageinstaller:id/permission_allow_button&quot;, wait);</find>
+      <find>(element)</find>
+      <find>fillText(&quot;com.get.consumer.app.staging:id/</find>
+      <find>confirm_button</find>
+      <find>doubleTap(&quot;com.get.consumer.app.staging:id/button_capture&quot;, driver);</find>
+      <find>clickElement(&quot;com.get.consumer.app.staging:id/</find>
+      <find>firstname_title</find>
+      <find>isElementPresent(&quot;com.get.consumer.app.staging:id/</find>
+      <find>clearText</find>
+      <find>org.seleniumhq.selenium</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>indElementById(id)</replace>
+      <replace>takeSelfiePhoto();</replace>
+      <replace>)</replace>
+      <replace>waitAndClickById(&quot;</replace>
+      <replace>clickAllowPermission(wait);</replace>
+      <replace>(&quot;com.get.consumer.app.staging:id/&quot; + id)</replace>
+      <replace>doubleTap(&quot;button_capture&quot;, driver);</replace>
+      <replace>clickElement(&quot;</replace>
+      <replace>isElementPresent(&quot;</replace>
+      <replace>clickElementSpecific(&quot;android:id/button1&quot;, driver);</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/get/tests/android/util/common.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/get/tests/android/util/commonAndroid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/get/tests/Helpers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/get/tests/android/util/AndroidAppium.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/get/tests/android/kycTest.java" />
+        <option value="$PROJECT_DIR$/src/main/assembly/zip.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/get/appiumtest/android/kycTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/get/appiumtest/android/util/AndroidAppium.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/get/appiumtest/android/util/AndroidAppium.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="get" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="get" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="appiumtest" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="getappium" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="getappium" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="appiumtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="appiumtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="appiumtest" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="getappium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getappium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="appiumtest" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.kycTest">
+    <configuration name="kycTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getappium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.get.appiumtest.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.get.tests.android" />
+      <option name="MAIN_CLASS_NAME" value="com.get.appiumtest.android.kycTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kycTest.Testcase02_SameAddressAndOthersJob" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getappium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.get.appiumtest.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.get.appiumtest.android" />
+      <option name="MAIN_CLASS_NAME" value="com.get.appiumtest.android.kycTest" />
+      <option name="METHOD_NAME" value="Testcase02_SameAddressAndOthersJob" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.kycTest" />
+        <item itemvalue="TestNG.kycTest.Testcase02_SameAddressAndOthersJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc4ffe0f-ad2d-467e-aab0-e89bad0756e7" name="Default Changelist" comment="" />
+      <created>1565844372104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565844372104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="kycTest - 2019.08.15 at 13h 53m 59s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.15 at 14h 01m 46s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.15 at 14h 12m 45s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.15 at 14h 20m 27s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.15 at 14h 30m 29s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.19 at 10h 07m 22s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest_Testcase02_SameAddressAndOthersJob - 2019.08.19 at 10h 08m 56s.xml">
+      <configuration name="kycTest.Testcase02_SameAddressAndOthersJob" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest_Testcase02_SameAddressAndOthersJob - 2019.08.19 at 10h 12m 54s.xml">
+      <configuration name="kycTest.Testcase02_SameAddressAndOthersJob" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.19 at 10h 20m 43s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="kycTest - 2019.08.19 at 11h 40m 06s.xml">
+      <configuration name="kycTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="981" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18742369" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35095614" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32981133" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/get/baseTest/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/get/tests/Helpers.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/get/appiumtest/android/util/AndroidAppium.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/get/appiumtest/android/kycTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/assembly/zip.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="85" column="21" selection-start-line="78" selection-start-column="12" selection-end-line="85" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/get/appiumtest/android/util/AndroidAppium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6175">
+          <caret line="25" column="79" lean-forward="true" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/get/appiumtest/android/kycTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
